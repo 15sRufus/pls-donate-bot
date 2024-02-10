@@ -1,0 +1,2 @@
+# pls-donate-bot
+beta
